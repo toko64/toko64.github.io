@@ -1,5 +1,5 @@
 # 公開するページのURL
-baseURL = "https://kat0h.github.io/hugo-blog-template"
+baseURL = "https://toko64.github.io/"
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"
@@ -7,7 +7,7 @@ HasCJKLanguage = true
 enableRobotsTXT = true
 
 # ブログのタイトル
-title = "hugo-blog-template"
+title = "hogehoge"
 
 theme = "mainroad"
 paginate = 20
