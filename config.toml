@@ -1,5 +1,5 @@
 # 公開するページのURL
-baseURL = "https://github.com/toko64/toko64.github.io"
+baseURL = "https://toko64.github.io"
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"
