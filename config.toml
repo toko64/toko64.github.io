@@ -16,7 +16,7 @@ paginate = 20
 [Author]
     name = "toko64"
     bio = "こんにちわわ"
-    avatar = "img/avatar.png"
+    avatar = "img/monogatari_alice_cheshire_neko.png"
 
 [Params]
     customCSS = ["css/custom.css"]
