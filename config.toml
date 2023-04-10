@@ -7,20 +7,20 @@ HasCJKLanguage = true
 enableRobotsTXT = true
 
 # ブログのタイトル
-title = "hogehoge"
+title = "ほげほげ"
 
 theme = "mainroad"
 paginate = 20
 
 # 自己紹介
 [Author]
-    name = "Author"
-    bio = "ここに自己紹介を入れることができます"
+    name = "toko64"
+    bio = "こんにちわわ"
     avatar = "img/avatar.png"
 
 [Params]
     customCSS = ["css/custom.css"]
-    copyright = "Author"
+    copyright = "toko64"
     readmore = true
     authorbox = true
     post_meta = ["date", "categories"]
@@ -32,8 +32,8 @@ paginate = 20
 
 # SNS等のユーザー名
 [Params.widgets.social]
-  twitter = "uvrub"
-  github = "kato-k"
+  twitter = "toko6464"
+  github = "tko64"
 
 [Params.sidebar]
     home = "right"
