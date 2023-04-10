@@ -33,7 +33,7 @@ paginate = 20
 # SNS等のユーザー名
 [Params.widgets.social]
   twitter = "toko6464"
-  github = "tko64"
+  github = "toko64"
 
 [Params.sidebar]
     home = "right"
